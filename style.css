@@ -1,0 +1,36 @@
+.header{
+    border: 1px solid black;
+    
+}
+.nav-link{
+    color: rebeccapurple;
+    font-size: 20px;
+    
+}
+.navbar-brand{
+    color: rebeccapurple;
+    text-decoration:underline;
+    font-size: 34px;
+}
+.navbar-brand:hover,
+.navbar-brand:focus{
+    color: blueviolet;
+}
+.stock:hover,
+.stock:focus{
+    color: greenyellow;
+}
+.order:hover,
+.order:focus{
+    color: red;
+}
+.btn-success:hover,
+.btn-success:focus{
+    background-color: darkgreen;
+}
+.btn-primary:hover,
+.btn-primary:focus{ 
+    background-color: blueviolet;
+    color: black;
+    font-size: 15px;
+}
